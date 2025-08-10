@@ -5,7 +5,7 @@
 <p align="center">
 
   <a href="https://arxiv.org/pdf/2508.01696">
-    <img src="https://img.shields.io/badge/arXiv-2505.14146-b31b1b.svg" alt="arXiv">
+    <img src="https://img.shields.io/badge/arXiv-2508.01696-b31b1b.svg" alt="arXiv">
   </a>
 </p>
 </div>
@@ -107,7 +107,7 @@ Details will be completed soon
 ```bibtex
 @article{jiang2025collaborative,
   title={Collaborative Chain-of-Agents for Parametric-Retrieved Knowledge Synergy},
-  author={Jiang, Yi and Zhao, Sendong and Li, Jianbo and Wang, Haochun and Zhang, Lizhe and Liu, Yan and Qin, Bin},
+  author={Jiang, Yi and Zhao, Sendong and Li, Jianbo and Wang, Haochun and Zhang, Lizhe and Liu, Yan and Qin, Bing},
   journal={arXiv preprint arXiv:2508.01696},
   year={2025}
 }
