@@ -1,6 +1,6 @@
 <div align="center">
 
-# CoCoA: Collaborative Chain-of-Agents for Parametric-Retrieved Knowledge Synergy
+## CoCoA: Collaborative Chain-of-Agents for Parametric-Retrieved Knowledge Synergy
 
 <p align="center">
 
@@ -12,7 +12,7 @@
 
 
 <div align="center">
-<img src="images/framework.png" alt="framework" width="800">
+<img src="images/framework.png" alt="framework" width="600">
 
 **CoCoA Framework**:The top part is CoCoA-zero, a multi-agent collaboration framework. It integrates internal and external knowledge in a collaborative manner by first performing knowledge induction and then making decisions. 
 The bottom part is the training strategy, which is based on CoCoA-zero and combines the trajectories of different agents into long chains to train and enhance the integration ability of the LLM.
